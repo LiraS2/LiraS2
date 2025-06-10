@@ -8,13 +8,10 @@ Sou um estudante de Ciência da Computação na Universidade Tiradentes (UNIT) e
 
 ## 🚀 O que estou aprendendo e praticando:
 
-**Linguagens:** Python (com a biblioteca Pandas) , JavaScript (iniciante). 
-
-**Segurança:** Pentest e Análise de Vulnerabilidades, praticando em plataformas como TryHackMe e Cisco Networking Academy. 
-
-**Ferramentas:** Git  e Google Workspace. 
-
-**Outros Interesses:** Desenvolvimento de Contratos Inteligentes (Blockchain), Circuitos Digitais , noções de desenvolvimento mobile e UX/UI Design. 
+* **Linguagens:** Python (com a biblioteca Pandas) , JavaScript (iniciante). 
+* **Segurança:** Pentest e Análise de Vulnerabilidades, praticando em plataformas como TryHackMe e Cisco Networking Academy. 
+* **Ferramentas:** Git  e Google Workspace. 
+* **Outros Interesses:** Desenvolvimento de Contratos Inteligentes (Blockchain), Circuitos Digitais , noções de desenvolvimento mobile e UX/UI Design. 
 
 <br>
 
