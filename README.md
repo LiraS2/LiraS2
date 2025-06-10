@@ -19,8 +19,9 @@
 
 *(Estes são os próximos repositórios que você vai criar. Por enquanto, os links não funcionarão.)*
 
-* [cite_start]**[Automação de Relatórios com Python](https://github.com/LiraS2/automacao-relatorios-python)**: Script para automatizar a geração de relatórios a partir de fontes de dados, baseado em minha experiência profissional. 
-* [cite_start]**[Estudos de Cibersegurança](https://github.com/LiraS2/estudos-ciberseguranca)**: Minhas anotações e soluções ("write-ups") para desafios de segurança do TryHackMe. 
+* **[Jornada Python](https://github.com/LiraS2/Jornada-Python)**: Repositório com mais de 40 desafios de programação que documentam meu aprendizado em Python, do básico ao orientado a objetos.
+* **[Exercícios HTML & JavaScript](https://github.com/LiraS2/Exercicios-HTML-e-JavaScript)**: Exemplos práticos de desenvolvimento web front-end, cobrindo formulários, variáveis e manipulação de strings.
+* **[Análise de Dados de Jogadores](https://github.com/LiraS2/Analise-Dados-Jogadores)**: Um pequeno dataset para prática de manipulação de dados em diferentes formatos (CSV, XLSX).
 
 <br>
 
