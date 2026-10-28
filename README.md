@@ -1,31 +1,35 @@
-# Olá, eu sou o Gabriel Lira Figueira! 👋
+# Gabriel Lira Figueira
 
-<br>
+Estudante de **Ciência da Computação** na UNIT, em Aracaju/SE. Construo soluções de **automação, backend e IA aplicada** e tenho interesse de longo prazo em aprendizado de máquina, sistemas eficientes e hardware para IA.
 
-Sou um estudante de Ciência da Computação na Universidade Tiradentes (UNIT) e um entusiasta da tecnologia. Meu foco principal é em Segurança Cibernética , mas também tenho grande interesse em Análise de Sistemas e Redes.  Atualmente, aplico minhas habilidades desenvolvendo scripts em Python (Pandas) para automação de processos. 
+Atualmente, busco oportunidades de **estágio ou desenvolvimento júnior** onde eu possa transformar processos reais em software confiável, aprender com um time técnico e evoluir em engenharia de IA.
 
-<br>
+## Foco técnico
 
-## 🚀 O que estou aprendendo e praticando:
+- **Automação e integrações:** Python, Node.js, n8n, APIs e fluxos com WhatsApp e Google Calendar
+- **IA aplicada e visão computacional:** OpenCV, EasyOCR e pipelines com revisão humana
+- **Backend e dados:** FastAPI, SQL, PostgreSQL, modelagem ER e testes em Python
+- **Fundamentos de computação:** estruturas de dados, grafos, Java/POO, redes e cloud em estudo
+- **Robótica e IoT:** navegação autônoma, Arduino, sensores e atividades na LACOR
 
-* **Linguagens:** Python (com a biblioteca Pandas) , JavaScript (iniciante). 
-* **Segurança:** Pentest e Análise de Vulnerabilidades, praticando em plataformas como TryHackMe e Cisco Networking Academy. 
-* **Ferramentas:** Git  e Google Workspace. 
-* **Outros Interesses:** Desenvolvimento de Contratos Inteligentes (Blockchain), Circuitos Digitais , noções de desenvolvimento mobile e UX/UI Design. 
+## Projetos em destaque
 
-<br>
+- **Pipeline de OCR para treinamento:** arquitetura com OpenCV, EasyOCR, FastAPI e Node.js que converte fotos de tabuleiros manuscritos em JSON estruturado com nível de confiança e permite revisão humana.
+- **Automação de pagamentos:** fluxo pessoal em desenvolvimento com n8n e IA para identificar pagamentos em mensagens e atualizar planilhas, com atenção à privacidade dos dados.
+- **Mix Software:** projeto acadêmico de SaaS de agendamentos integrado ao WhatsApp e Google Calendar, incluindo levantamento de requisitos, backlog e 14 casos de uso UML.
+- **Navegação em grade dinâmica:** comparação de estratégias de navegação de robôs em ambientes dinâmicos, com Dijkstra, campos potenciais, métricas e resultados reproduzíveis.
+- **Automação de gestão de imóveis:** scripts em Python e `openpyxl` para digitalizar cobranças e demonstrativos financeiros.
 
-## 📂 Projetos em Destaque
+## Produção acadêmica e comunidade
 
-*(Estes são os próximos repositórios que você vai criar. Por enquanto, os links não funcionarão.)*
+- Coautor de trabalho sobre irrigação inteligente com Arduino e sensores para agricultura familiar.
+- Autor de seções de artigo sobre navegação de robôs de serviço com grafos, algoritmos de busca e visão computacional.
+- Apoio à área de competições da **LACOR**, liga acadêmica de robótica da UNIT.
+- Integrante do projeto de extensão **PROBEX 2026** em robótica educacional e inclusão digital.
 
-* **[Jornada Python](https://github.com/LiraS2/Jornada-Python)**: Repositório com mais de 40 desafios de programação que documentam meu aprendizado em Python, do básico ao orientado a objetos.
-* **[Exercícios HTML & JavaScript](https://github.com/LiraS2/Exercicios-HTML-e-JavaScript)**: Exemplos práticos de desenvolvimento web front-end, cobrindo formulários, variáveis e manipulação de strings.
-* **[Análise de Dados de Jogadores](https://github.com/LiraS2/Analise-Dados-Jogadores)**: Um pequeno dataset para prática de manipulação de dados em diferentes formatos (CSV, XLSX).
+## Contato
 
-<br>
+- LinkedIn: [gabriel-liras2](https://www.linkedin.com/in/gabriel-liras2/)
+- GitHub: [LiraS2](https://github.com/LiraS2)
 
-## 📫 Como me encontrar:
-
-* **LinkedIn:** [Gabriel Lira Figueira](https://www.linkedin.com/in/gabriel-liras2)
-* **Email:** gabriel.lira.figueira@gmail.com
+> Uso IA como ferramenta de engenharia: para pesquisar, prototipar e revisar; assumo a responsabilidade por entender, testar e explicar o que entrego.
